@@ -17,4 +17,4 @@
 
 ### Instucciones de ejecucion:
 
-- Correr el archivo `main.py` en la carpeta `src` con el comando `python main.py`
+- Correr el archivo `main.py`  con el comando `python main.py`
